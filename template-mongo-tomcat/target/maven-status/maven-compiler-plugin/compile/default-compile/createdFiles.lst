@@ -1,0 +1,10 @@
+org/notimeforthat/template/persistence/DaoFactory.class
+org/notimeforthat/template/resources/HelloWorldResource.class
+org/notimeforthat/template/filters/CustomJsonProvider.class
+org/notimeforthat/template/filters/ObjectIdDeserializer.class
+org/notimeforthat/template/persistence/MongoPersistency.class
+org/notimeforthat/template/persistence/EntryDao.class
+org/notimeforthat/template/filters/MarshallingFeature.class
+org/notimeforthat/template/filters/ObjectIdJsonSerializer.class
+org/notimeforthat/template/ApplicationEntry.class
+org/notimeforthat/template/models/Entry.class

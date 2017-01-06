@@ -1,0 +1,10 @@
+/Users/christianbraun/Documents/repos/private/backend/appnehm/template-mongo-tomcat/src/main/java/org/notimeforthat/template/filters/ObjectIdDeserializer.java
+/Users/christianbraun/Documents/repos/private/backend/appnehm/template-mongo-tomcat/src/main/java/org/notimeforthat/template/persistence/DaoFactory.java
+/Users/christianbraun/Documents/repos/private/backend/appnehm/template-mongo-tomcat/src/main/java/org/notimeforthat/template/persistence/MongoPersistency.java
+/Users/christianbraun/Documents/repos/private/backend/appnehm/template-mongo-tomcat/src/main/java/org/notimeforthat/template/filters/MarshallingFeature.java
+/Users/christianbraun/Documents/repos/private/backend/appnehm/template-mongo-tomcat/src/main/java/org/notimeforthat/template/models/Entry.java
+/Users/christianbraun/Documents/repos/private/backend/appnehm/template-mongo-tomcat/src/main/java/org/notimeforthat/template/filters/ObjectIdJsonSerializer.java
+/Users/christianbraun/Documents/repos/private/backend/appnehm/template-mongo-tomcat/src/main/java/org/notimeforthat/template/ApplicationEntry.java
+/Users/christianbraun/Documents/repos/private/backend/appnehm/template-mongo-tomcat/src/main/java/org/notimeforthat/template/resources/HelloWorldResource.java
+/Users/christianbraun/Documents/repos/private/backend/appnehm/template-mongo-tomcat/src/main/java/org/notimeforthat/template/filters/CustomJsonProvider.java
+/Users/christianbraun/Documents/repos/private/backend/appnehm/template-mongo-tomcat/src/main/java/org/notimeforthat/template/persistence/EntryDao.java
